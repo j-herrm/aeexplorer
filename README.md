@@ -1,1 +1,1 @@
-Repo for hosting AEExplorer downloads, download from https://aeexplorer.com/
+Repo for hosting AEExplorer downloads from https://aeexplorer.com/
